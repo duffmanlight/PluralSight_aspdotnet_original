@@ -1,0 +1,6 @@
+All inside AWS Cloud
+.NET Core MVC w/ S3, Cognito, text extraction, other services.
+Little to no UI
+Interactive - voice, text, email
+Sees new transaction folder and asks to upload.
+Scans and stores documents

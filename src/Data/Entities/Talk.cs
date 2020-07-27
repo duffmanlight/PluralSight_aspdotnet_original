@@ -1,4 +1,6 @@
-﻿namespace CoreCodeCamp.Data
+﻿using System.Collections;
+
+namespace CoreCodeCamp.Data
 {
   public class Talk
   {
